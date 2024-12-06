@@ -3,7 +3,7 @@
 ## Cloning
 
 ```sh
-git clone https://github.com/jaedle/java11-junit5-template
+git clone https://github.com/jaedle-kata/java11-junit5-template
 ```
 
 ## Preparing for Kata
